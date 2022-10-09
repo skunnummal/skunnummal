@@ -2,10 +2,9 @@
 
 #### Syamesh Kunnummal
 
-- 🔭 I’m currently working on Unity 3D
-- 🌱 I’m currently learning Unreal Engine
+- 🔭 I’m currently working on Unity 3D and Unreal Engine
 - 👯 I’m looking to collaborate on AR/VR/MR applications and games
-- 💬 Ask me about Unity, Problem solving, Math, etc
+- 💬 Ask me about Unity,Unreal, Problem solving, Math, etc
 - 📫 How to reach me: skunnummal@deloitte.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can eat almost anything. Foodie, Traveller
